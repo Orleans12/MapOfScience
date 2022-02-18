@@ -1,6 +1,5 @@
 # MapOfScience
 # Expresiones Regulares
-##
 Vicente Quezada
 ##
 ## Universidad Regional Amazínica IKIAM
